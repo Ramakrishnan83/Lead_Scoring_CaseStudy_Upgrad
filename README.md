@@ -7,6 +7,6 @@ There are some more problems presented by the company which your model should be
 
 **Repository contains 4 files:**
 1.Python commented file: detailed comments and Code.
-2.Word File: questions asked by the company in the word document .
+2.PDF  File: questions asked by the company in the word document .
 3.Presentation:  Presentation to the chief data scientist of your company
 4.PDF File: Summary report in a PDF file
